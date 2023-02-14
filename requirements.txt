@@ -14,6 +14,7 @@ cymem==2.0.7
 decorator==4.4.2
 dill==0.3.6
 emoji==1.7.0
+pywin32=223
 ffmpeg-python==0.2.0
 filelock==3.9.0
 Flask==2.2.2
